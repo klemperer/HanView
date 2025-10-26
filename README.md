@@ -13,7 +13,7 @@ This is a sister project of [Github Project Binglish](https://github.com/klemper
 
 
 ## Download Compiled Program
-[Github releases](https://github.com/klemperer/HanView/releases/download/latest/hanview.exe) Or [Alternative Download Link](https://ss.blueforge.org/hanview/hanview.exe)
+[Github releases](https://github.com/klemperer/HanView/releases/latest/download/hanview.exe) Or [Alternative Download Link](https://ss.blueforge.org/hanview/hanview.exe)
 
 ## Or Compile by Yourself
 ```Bash
