@@ -9,7 +9,8 @@ This is a sister project of [Github Project Binglish](https://github.com/klemper
 - Update Frequency: Every 3 hours
 - Generative AI cannot guarantee complete accuracy of the content
 - Suitable for Windows 10 and above, 1920x1080 resolution (other resolutions not fully tested)
-<img width="1920" height="1080" alt="HanView Screenshot" src="https://github.com/user-attachments/assets/abf6b8e8-26b6-426a-9da6-b2e880251334" />
+<img width="1920" height="1080" alt="HanView Screenshot" src="https://github.com/user-attachments/assets/4e649925-7205-4802-a3a8-53d31eb8fee0" />
+
 
 ## Download Compiled Program
 [Github releases](https://github.com/klemperer/HanView/releases/download/latest/hanview.exe) Or [Alternative Download Link](https://ss.blueforge.org/hanview/hanview.exe)
