@@ -1,6 +1,8 @@
 # HanView: Effortless Learning Chinese on Wallpapers
 Transform your desktop into a daily learning adventure. HanView fetches the stunning daily Bing wallpaper, uses AI to seamlessly overlay a frequently used Chinese word, and sets the enriched image as your Windows wallpaper. It’s a perfect way to "encounter" a Chinese word, effortlessly—blending the beauty of the world with the richness of language, right on your desktop.
 
+This is a sister project of [Github Project Binglish](https://github.com/klemperer/binglish), which empowers users to learn English words on Bing wallpapers.
+
 - Image URL: https://ss.blueforge.org/han
 - Wallpaper Source: https://github.com/TimothyYe/bing-wallpaper
 - Words Difficulty: Top 10,000 frequently used Chinese words
