@@ -1,20 +1,16 @@
-# HanView: Effortless Leaning Chinese on Wallpapers
-Transform your desktop into a daily learning adventure. HanView fetches the stunning daily Bing wallpaper, uses AI to seamlessly overlay a frequently used Chinese word, and sets the enriched image as your Windows wallpaper. It’s a perfect way to "encounter" some Chinese word, effortlessly—blending the beauty of the world with the richness of language, right on your desktop.
+# HanView: Effortless Learning Chinese on Wallpapers
+Transform your desktop into a daily learning adventure. HanView fetches the stunning daily Bing wallpaper, uses AI to seamlessly overlay a frequently used Chinese word, and sets the enriched image as your Windows wallpaper. It’s a perfect way to "encounter" a Chinese word, effortlessly—blending the beauty of the world with the richness of language, right on your desktop.
 
 - Image URL: https://ss.blueforge.org/han
-
 - Wallpaper Source: https://github.com/TimothyYe/bing-wallpaper
-
 - Words Difficulty: Top 10,000 frequently used Chinese words
-
 - Update Frequency: Every 3 hours
-
 - Generative AI cannot guarantee complete accuracy of the content
-
 - Suitable for Windows 10 and above, 1920x1080 resolution (other resolutions not fully tested)
+<img width="1920" height="1080" alt="HanView Screenshot" src="https://github.com/user-attachments/assets/abf6b8e8-26b6-426a-9da6-b2e880251334" />
 
 ## Download Compiled Program
-[Github releases](https://github.com/klemperer/HanView/releases/download/latest/hanview.exe) 或者 [Alternative Download Link](https://ss.blueforge.org/hanview/hanview.exe)
+[Github releases](https://github.com/klemperer/HanView/releases/download/latest/hanview.exe) Or [Alternative Download Link](https://ss.blueforge.org/hanview/hanview.exe)
 
 ## Or Compile by Yourself
 ```Bash
@@ -35,7 +31,7 @@ python hanview.py
 ```
 
 ## Right-Click Menu Description
-- Look Up Word: Jump to dictionary to learn more about the word's usage.
+- Look Up Word: Jump to a dictionary to learn more about the word's usage.
 - Read Word: Play the AI-generated explanation of the word's usage.
 - Random Review: Randomly display a past wallpaper (does not affect the current wallpaper update cycle).
 - Copy & Save: If you like the current wallpaper, click this option to copy and save a copy (saved to the program's directory).
