@@ -164,7 +164,7 @@ def build_menu_items():
     
     wallpaper_path = os.path.join(os.path.dirname(get_executable_path()), "wallpaper.jpg")
     if os.path.exists(wallpaper_path):
-        menu_items.append(item('Copy&Save', copy_and_save_wallpaper))
+        menu_items.append(item('Copy Save', copy_and_save_wallpaper))
 
     if han_copyright:
         menu_items.append(item('Image Info', show_copyright_info))
