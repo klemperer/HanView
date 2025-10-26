@@ -1,0 +1,5 @@
+requests
+pystray
+Pillow
+playsound3
+exifread
